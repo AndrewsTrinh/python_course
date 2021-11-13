@@ -56,11 +56,13 @@
     - Manipulation using lambda function
     - Group by aggregation
 - Data visualization with Seaborn
-
+- Data crawling using requests, selenium and beautiful soup
+- 
 #### 2.2 Machine learning brefing
 
 - Simple machine learning application (reading)
 - Machine learning pipeline
+- Machine learning with scikit learn
 - Machine learning performance interpretation
 - Machine learning self study source (reading)
 
